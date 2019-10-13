@@ -13,8 +13,13 @@
   - **Defining the problem** and **planning a solution**
 * **Building games & other interactive experiences (20%)**
   - **Building a prototype**
+  - Using development tools:
+    - Unity
+    - Visual Studio
+    - GitHub
 * **Collaborating on diverse teams (20%)**
   - Project management
+  - Using collaboration tools
 * **Safety (10%)**
 
    Being safe yourself and contributing to a safe and productive working environment. Ensuring the safety of the users of your games.
