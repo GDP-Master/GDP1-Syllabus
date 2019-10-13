@@ -39,7 +39,7 @@ Have one route preplanned along with pacing aimed at slower students. Present le
 
 Have students "level up" through the class.
 
-Have a leader board. Allow students to become mentors for other students and when their mentees move up on the leader board the mentor also moves up.
+Have a leader board. Arrange the leader board so that you can see who has specific expertise (leader can move up if they can help with a question - move someone up in an area where they lead; likewise they can move down if they are unable to help with a question below their level af mastery). Allow students to become mentors for other students and when their mentees move up on the leader board the mentor also moves up. Use team progress on the leader board.
 
 ## GDP 1
 
