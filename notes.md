@@ -24,6 +24,18 @@
   - User safety
 * **Career Exploration (10%)**
 
+## Game Design as a Game
+
+Ideas from Paul Anderson's TEDx Talk [Classroom Game Design](https://www.youtube.com/watch?v=4qlYGX0H6Ec).
+
+Make class a video game - allow students to work ahead (how to require collaboration - maybe require teams on certian projects and only release the project spec once a team has been constituted) as they acheive mastery. Maybe also allow different paths through the course.
+
+Have one route preplanned along with pacing aimed at slower students. Present lessons at beginning of class "on pace." Students who are ahead may skip or attend as a refresher.
+
+Have students "level up" through the class.
+
+Have a leader board. Allow students to become mentors for other students and when their mentees move up on the leader board the mentor also moves up.
+
 ## GDP 1
 
 ## GDP 2
