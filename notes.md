@@ -10,7 +10,7 @@
   - Developing a mission statement
   - Playtesting
 * **Designing games & other interactive experiences (20%)**
-  - **Defining the problem** and **planning a solution**
+  - **Defining the problem, researching ideas,** and **planning a solution**
 * **Building games & other interactive experiences (20%)**
   - **Building a prototype**
   - Using development tools:
