@@ -7,7 +7,7 @@ layout: page
 
 Instructor: Douglas Urner, urner@skschools.org, Room 202E
 
-**Game Design & Programming I** is a one semester introduction to computer programming through games. We will develop a basic understanding of programming by building a series of small prototypes using the Unity game engine and the C# programming language. In addition to game programming we also learn modern software development practices including source code management using Git and GitHub, pair programming and particpating on a development team, iterative design, and project management.
+**Game Design & Programming I** is a one semester introduction to the art and science of designing and building games and other interactive experiences. We will develop a basic understanding of programming by building a series of small prototypes using the C# programming language and the Unity game engine. In addition to game programming we also learn modern software development practices including source code management using Git and GitHub, pair programming and particpating on a development team, iterative design, and project management.
 
 ### Essential Tasks
 
