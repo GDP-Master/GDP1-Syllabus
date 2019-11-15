@@ -27,4 +27,4 @@ Each unit in the class is built around a game prototype that teaches a game prog
 
 ### Assessment
 
-{% include policies.md %}
+{% include policies.html %}
