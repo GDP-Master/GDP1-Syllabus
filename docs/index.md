@@ -26,3 +26,5 @@ Each unit in the class is built around a game prototype that teaches a game prog
 * **Prototype 3: Sounds & Effects** - an infinite side scroller.
 
 ### Assessment
+
+{% include policies.md %}
