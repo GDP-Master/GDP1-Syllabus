@@ -3,25 +3,25 @@ layout: page
 ---
 
 # Game Design & Programming I
-### South Kitsap High School: 2019-2020
+**South Kitsap High School: 2019-2020**
 
 Instructor: Douglas Urner, urner@skschools.org, Room 202E
 
-Game Design & Programming I is a one semester introduction to computer programming through games. We will develop a basic understanding of programming by building a series of small prototypes using the Unity game engine and the C# programming language. In addition to game programming we also learn modern software development practices including source code management using Git and GitHub, pair programming and particpating on a development team, iterative design, and project management.
+**Game Design & Programming I** is a one semester introduction to computer programming through games. We will develop a basic understanding of programming by building a series of small prototypes using the Unity game engine and the C# programming language. In addition to game programming we also learn modern software development practices including source code management using Git and GitHub, pair programming and particpating on a development team, iterative design, and project management.
 
-## Essential Tasks
+### Essential Tasks
 
 * Iterative design skills
 * Programming in C#
 * Creating games in Unity
 * Source code management using Git and GitHub
 
-## Projects
+### Projects
 
 Each unit in the class is built around a game prototype that teaches a game programming skill:
 
-* Prototype 1: Player Control - a third person driving simulator.
-* Prototype 2: Basic Gameplay - a top down game.
-* Prototype 3: Sounds & Effects - an infinite side scroller.
+* **Prototype 1: Player Control** - a third person driving simulator.
+* **Prototype 2: Basic Gameplay** - a top down game.
+* **Prototype 3: Sounds & Effects** - an infinite side scroller.
 
-## Assessment
+### Assessment
