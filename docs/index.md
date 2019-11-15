@@ -11,10 +11,11 @@ Instructor: Douglas Urner, urner@skschools.org, Room 202E
 
 ### Essential Tasks
 
-* Iterative design skills
-* Programming in C#
-* Creating games in Unity
-* Source code management using Git and GitHub
+By the end of the semester you will be able to:
+
+* Use an iterative design process to create simple **digital prototypes** to test ideas for player movement, mechanics, and audio & visual effects.
+* Program simple Unity components (scripts) using the C# programming language.
+* Manage the code for your prototypes using Git and GitHub.
 
 ### Projects
 
