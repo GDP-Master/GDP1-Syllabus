@@ -17,7 +17,6 @@ Game Design & Programming I is a one semester introduction to computer programmi
 
 Each unit in the class is built around a game prototype that teaches a game programming skill:
 
-* Unit 1: Player Control
-* Unit 2: Basic Gameplay
-* Unit 3: Sounds & Effects
-* Unit 4: 
+* Prototype 1: Player Control - a third person driving simulator.
+* Prototype 2: Basic Gameplay - a top down game.
+* Prototype 3: Sounds & Effects - an infinite side scroller.
