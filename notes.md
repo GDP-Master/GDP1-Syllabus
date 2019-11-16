@@ -1,5 +1,26 @@
 # Game Design & Programming
 
+## Assessment
+
+### Create With Code
+
+#### Prototypes (100 points each, 60% of grade)
+
+* Each step: 20 points
+  - Coding/Unity skills: 12 points
+  - Reflection questions: 8 points
+    - Two questions on each step
+    - Questions about key points of videos
+    - Concepts, debugging methods
+* Notes: 20 points
+  - **Need to define what notes should be:**
+    - New concepts (e.g., variables, assignment, data types)
+    - Processes, procedures
+    - Ideas for personal project, solutions to challenges
+  - Set a SMART goal (4 points)
+  - One formative check (4 points)
+  - Summative check, at prototype completion (12 points)
+
 ## Essential Tasks
 
 * **Critical thinking about games & their impact on society (20%)**
