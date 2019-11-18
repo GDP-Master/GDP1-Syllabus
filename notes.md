@@ -10,10 +10,10 @@
   - Steps:
     - Project setup / 1st lesson
       - Repository on GH (4 points)
-        - Commit by owner (empty project)
-        - Commit by owner (after import of assets)
-        - Published **lesson-1** branch
-        - Good screen capture & link
+        - New Unity project created: commit on GH
+        - Assets imported: commit on GH
+        - Git repository created: commit on GH
+        - Create and publish a branch: commit on GH
       - Remainder of Lesson 1 (8 points)
     - Remaining three lessons
   - Coding/Unity skills: 12 points
