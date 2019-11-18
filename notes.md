@@ -12,7 +12,7 @@
       - Repository on GH (4 points)
         - Commit by owner (empty project)
         - Commit by owner (after import of assets)
-        - Published lesson-1 branch
+        - Published **lesson-1** branch
         - Good screen capture & link
       - Remainder of Lesson 1 (8 points)
     - Remaining three lessons
