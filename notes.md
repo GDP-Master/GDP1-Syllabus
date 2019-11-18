@@ -4,9 +4,12 @@
 
 ### Create With Code
 
-#### Prototypes (100 points each, 60% of grade)
+#### Prototypes (120 points each, 60% of grade)
 
 * Each step: 20 points
+  - Steps:
+    - Project setup
+    - Four lessons
   - Coding/Unity skills: 12 points
   - Reflection questions: 8 points
     - Two questions on each step
