@@ -4,12 +4,18 @@
 
 ### Create With Code
 
-#### Prototypes (120 points each, 60% of grade)
+#### Prototypes (100 points each, 60% of grade)
 
 * Each step: 20 points
   - Steps:
-    - Project setup
-    - Four lessons
+    - Project setup / 1st lesson
+      - Repository on GH
+        - Commit by owner (empty project)
+        - Commit by owner (after import of assets)
+        - Published lesson-1 branch
+        - Good screen capture & link
+      - Remainder of Lesson 1
+    - Remaining three lessons
   - Coding/Unity skills: 12 points
   - Reflection questions: 8 points
     - Two questions on each step
