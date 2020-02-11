@@ -13,19 +13,28 @@ Instructor: Douglas Urner, urner@skschools.org, Room 202E
 
 By the end of the semester you will be able to:
 
-* Use an iterative design process to create simple **digital prototypes** to test ideas for player movement, mechanics, and audio & visual effects.
+* Use an iterative design process to create simple **digital prototypes** to test ideas for player control, game mechanics, audio & visual effects, and the user interface (UI).
 * Program simple Unity components (scripts) using the C# programming language.
 * Manage the code for your prototypes using Git and GitHub.
+* Investigate the features of Unity and C# to extend what you can do beyond what is taught through the prototypes.
+* Reason about programs to find and fix design and programming errors.
 
 ### Projects
 
 Each unit in the class is built around a game prototype that teaches a game programming skill:
 
-* **Prototype 1: Player Control** - a third person driving simulator.
-* **Prototype 2: Basic Gameplay** - a top down game.
-* **Prototype 3: Sounds & Effects** - an infinite side scroller.
+* Unit 0 **Game Programming 101** - an introduction to the essentials of programming using JavaScript in a block based IDE.
+* Unit 1 **Prototype 1: Player Control** - a third person driving simulator.
+* Unit 2 **Prototype 2: Basic Gameplay** - a top down game.
+* Unit 3 **Prototype 3: Sounds & Effects** - an infinite side scroller.
+* Unit 4 **Prototype 4: Gameplay Mechanics** - 
+* Unit 5 **Prototype 5: User Interface** - 
 
 ### Assessment
+
+Each of the prototypes builds on the skills learned in the previous one - if you get bogged down in one prototype, I would encourage you to move forward with the class when we go to the next prototype. I think you will be pleasantly surprised by how much you've learned and by how much easier the process is the second (or third, or ...) time around.
+
+Because the prototypes build on each other, you will have the opportunity to demonstrate that you have grown in the skills that you struggled with (or even skipped) in earlier projects.
 
 ### Class Policies
 
